@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Humble petition of the inhabitants of the county of Oxford to His Majesty, with His Maiesties answer thereunto</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45037</idno><idno type="EEBO-CITATION">10745609</idno>
+  <idno type="VID">45618</idno>
+  <idno type="EEBO-PROQUEST">2240889189</idno>
+  
+            <idno type="STC">Wing H3523</idno>
+            <idno type="STC">ESTC R28709</idno>
+            <idno type="OCLC">10745609</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A45037)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45618)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1405:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Humble petition of the inhabitants of the county of Oxford to His Majesty, with His Maiesties answer thereunto</title>
+               </titleStmt>
+               <extent>6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Leonard Lichfield,</publisher>
+                  <pubPlace>At Oxford :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  I, --  King of England, 1600-1649.</term>
+               <term type="topical_term">Soldiers --  England --  Billeting.</term>
+               <term type="geographic_name">Oxfordshire.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:45618:1"/>
+            <pb facs="tcp:45618:1"/>
+            <p>THE HUMBLE PETITION OF THE INHABI<g ref="char:EOLhyphen"/>TANTS OF THE County of OXFORD to His MAJESTY. WITH HIS MAIESTIES Answer thereunto.</p>
+            <p>Printed, by His MAJE<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Command, AT OXFORD, February 21. By LEONARD LICHFIELD Printer to the Vniversity. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:45618:2"/>
+            <pb n="1" facs="tcp:45618:2"/>
+            <div type="petition">
+               <head>TO THE KING'S MOST EXCELLENT MAJESTY.</head>
+               <head>The humble Petition of Your MAJESTIES most Loyall and Obedient Subjects, the Inhabitants of the County of OXON.</head>
+               <opener>Most humbly sheweth,</opener>
+               <p>
+                  <seg rend="decorInit">T</seg>Hat Your Petitioners (out of their desire to manifest their Loyall and hearty affection and duty to Your <hi>Majesty</hi>) having undertaken to supply Your <hi>Majesty</hi> with the weekly loane of 1176. pounds for the provision of seven and twenty Troopes of Your <hi>Ma<g ref="char:EOLhyphen"/>jesties</hi> Horses, and one company of Dragooners, bil<g ref="char:EOLhyphen"/>lited in this County; according to an agreement made
+<pb n="2" facs="tcp:45618:3"/> betwixt Your <hi>Majesty</hi> and Your Petitioners, the twenty first of <hi>December</hi> last, and according to an Explanation thereof made the 11. of <hi>January</hi> fol<g ref="char:EOLhyphen"/>lowing; Which agreement Your Petitioners (though the burthen be very great) are willing on their part to performe; the true intention thereof being (as Your Petitioners doe humbly conceive) that no more Horses or Dragoones should be billited in this Coun<g ref="char:EOLhyphen"/>ty, then were specified in the said agreement; And to that end, by an Explanation of the said Agreement made the eleaventh of <hi>Ianuary,</hi> there are diverse Receivers nominated for the severall hundreds of this County, with directions given them, to what of<g ref="char:EOLhyphen"/>ficers, and for what Regiments, the said Receivors should pay the monyes within their severall Colle<g ref="char:EOLhyphen"/>ctions.</p>
+               <p>Now, Forasmuch as diverse Troopes of Horse &amp; Dragooners, before that time were, &amp; still are billited in this County, more then the number contracted for (whereunto Your Petitioners, contrary to the Expla<g ref="char:EOLhyphen"/>nation of the 11<seg rend="sup">th</seg> of <hi>Ianuary,</hi> are compelled without any pay at all) insomuch as the provisions of the Country are already so farre spent, that Your Peti<g ref="char:EOLhyphen"/>tioners can neither be able to performe their Agree<g ref="char:EOLhyphen"/>ment with Your <hi>Majesty,</hi> nor provide for such cattell of their owne, as are necessarily required for their
+<pb n="3" facs="tcp:45618:3"/> husbandry and tillage (the losse whereof is the un<g ref="char:EOLhyphen"/>doing of the Country,) unlesse they be presently ea<g ref="char:EOLhyphen"/>sed.</p>
+               <p>And forasmuch as there is no Receivor-generall appointed, from whom, such persons (and many there are) who billet more souldiers, or send in more provisions then their Contribution &amp; Loane amount<g ref="char:EOLhyphen"/>eth unto, may expect satisfaction, according to the rates and prises agreed on in Print.</p>
+               <p>Your Petitioners doe therefore most humbly beseech Your <hi>Majesty,</hi> that all the supernumera<g ref="char:EOLhyphen"/>ry Troopes of Horse and Dragoones may be speedily removed, and Quartered in some other Counties. And that the now High-Sheriffe of this County, or some other Person of Quality and E<g ref="char:EOLhyphen"/>state amongst us, may be by Your <hi>Majesty</hi> ap<g ref="char:EOLhyphen"/>poynted Receivor-generall of the said Weekly loane; And that the particular Receivors, nomi<g ref="char:EOLhyphen"/>nated in the Printed book, may forthwith pay all such monies as they have already received, and may once every Week, (or Fortnight at the far<g ref="char:EOLhyphen"/>thest) pay what more they shall receive, and therewith deliver in all Tickets, and perfect their accompt thereof to the High-Sheriffe, or such o<g ref="char:EOLhyphen"/>ther as Your <hi>Majesty</hi> shall appoynt; In whose
+<pb n="4" facs="tcp:45618:4"/> power it shall alwayes be to detaine in His hands so much mony as shall satisfy the Country for the surplusage of those monyes disbursed by them, ei<g ref="char:EOLhyphen"/>ther in Billet or Provisions, which they can make appeare by Tickets to be more then their Contri<g ref="char:EOLhyphen"/>bution and Loane amounts unto. And that the Sheriffe, or such other as Your <hi>Majesty</hi> shall ap<g ref="char:EOLhyphen"/>poynt, may pay the residue of the said Loane-mony to such Commanders or Officers of Your <hi>Majesties</hi> Army, for Your <hi>Majesties</hi> service, as Your <hi>Majesty</hi> shall please to assigne for that purpose.</p>
+               <closer>And your Petitioners shall dayly pray, &amp;c.</closer>
+            </div>
+            <div type="answer">
+               <pb n="5" facs="tcp:45618:4"/>
+               <head>His <hi>Majesties</hi> Answer to the foresaid Petition.</head>
+               <p>
+                  <seg rend="decorInit">W</seg>EE, having received ample te<g ref="char:EOLhyphen"/>stimony of the Loyalty and good Affection of the Inhabi<g ref="char:EOLhyphen"/>tants of this Our County of <hi>Oxford,</hi> and willing to give them all the ease and satisfacti<g ref="char:EOLhyphen"/>on they can desire, for the better enabling them to make good the weekly Loane agreed upon betweene Us, and the said County, for the maintenance of part of Our Army, are grati<g ref="char:EOLhyphen"/>ously pleased to declare, That according to their desires expressed in this Petition, We doe ap<g ref="char:EOLhyphen"/>prove of and appoint Our trusty &amp; well-beloved Sir <hi>Thomas Chamberlaine Baronet,</hi> high Sheriffe of that Our County, to be Receiver-Generall of the said Loane, and to doe and execute all such Acts, both for the ease of the Inhabitants of Our said County, and for the full performance of the Agreement, as is desired in the said Peti<g ref="char:EOLhyphen"/>tion.
+<pb n="6" facs="tcp:45618:5"/> And to the end it may appeare what, and how many Troopes are quartered within Our said County, the Quarter-master-Generall of the Horse is hereby required to give a speedy ac<g ref="char:EOLhyphen"/>compt to the Lords, and other Our Commissio<g ref="char:EOLhyphen"/>ners, how many and whose Troopes of Horse are therein quartered, That if it shall appeare there are more then twenty eight Troopes, speedy order may be taken for their removall, and likewise for satisfying the Country for such time as they have been Billetted therein, so soon as the Country have made good, and paid in all the Contribution and Loane now behind and unpaid.</p>
+               <closer>
+                  <dateline>Given under Our Sign Manuall at Our Court at OXFORD, <date>this sixteenth of FEBRUARY. 1642.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:45618:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
